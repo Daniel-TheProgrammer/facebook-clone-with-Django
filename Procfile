@@ -1,7 +1,7 @@
 web: gunicorn SocialNetwork.wsgi
 1
 2
-xh
+x
 33
 4
 
