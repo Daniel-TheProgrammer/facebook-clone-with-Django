@@ -1,4 +1,4 @@
-mnnmmmm
+mnnmm
 #!/usr/bin/env python
 import os
 import sys
