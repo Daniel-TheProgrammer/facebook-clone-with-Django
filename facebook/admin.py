@@ -4,4 +4,4 @@ from facebook.models import Profile,Friend
 admin.site.register(Profile)
 admin.site.register(Friend)
 
-from django.contrib
+from django.cont
