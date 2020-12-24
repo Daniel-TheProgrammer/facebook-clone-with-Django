@@ -1,2 +1,2 @@
-# Social_Network. 
+# Social_Network
 # You can go through Facebook
